@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="ic-actions-notifications" transform="translate(-0.393)">
+    <rect id="Rectangle_471" data-name="Rectangle 471" width="29" height="29" transform="translate(0.393)" fill="none"/>
+    <g id="ic-actions-notifications-2" data-name="ic-actions-notifications" transform="translate(3.527 3.713)">
+      <path id="Path_441" data-name="Path 441" d="M22.326,21.563H5L7.743,7.853A6.037,6.037,0,0,1,13.663,3h0a6.037,6.037,0,0,1,5.92,4.852Z" transform="translate(-2.339 -3)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+      <line id="Line_567" data-name="Line 567" x2="22" transform="translate(-0.134 18.287)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_442" data-name="Path 442" d="M16.425,18A3.713,3.713,0,1,1,9,18" transform="translate(-1.389 0.563)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

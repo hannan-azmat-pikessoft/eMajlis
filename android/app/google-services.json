@@ -1,0 +1,139 @@
+{
+  "project_info": {
+    "project_number": "667388167500",
+    "firebase_url": "https://emajlis-3a1b7.firebaseio.com",
+    "project_id": "emajlis-3a1b7",
+    "storage_bucket": "emajlis-3a1b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667388167500:android:67a88c983252010ce43be9",
+        "android_client_info": {
+          "package_name": "com.emajlis.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667388167500-cu7jkrol03baen60kfa34qcoo7nt1l9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emajlis.android",
+            "certificate_hash": "beaa08f8d404406cb9bdcd6eff75c2ea1ed8c491"
+          }
+        },
+        {
+          "client_id": "667388167500-nau4d7mltobbg8smh7mbgtrccf5hvto5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emajlis.android",
+            "certificate_hash": "a2d0b9ccbaf11994f4fdb8551d58217a01b73325"
+          }
+        },
+        {
+          "client_id": "667388167500-tuqgp1mv63977dn5p2s5ec13dsoge2to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emajlis.android",
+            "certificate_hash": "2741d5ae668a2fff2457fe48d85ec7d3f760ece5"
+          }
+        },
+        {
+          "client_id": "667388167500-uelc2kt709vieb1u8p8scjike1gmj874.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emajlis.android",
+            "certificate_hash": "abaed3f4a0024651cf85a92bfdd23715eed4dc38"
+          }
+        },
+        {
+          "client_id": "667388167500-gd0il56snjqi702jbakoacp785dggc08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRHwW6drzIqtnIbu1gpHPu_OyGt20jf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667388167500-gd0il56snjqi702jbakoacp785dggc08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667388167500-5vjpr21o3p02a6g53qb2cslscmlo96f2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eMajlis-gts.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667388167500:android:1c072cb3eb332a6be43be9",
+        "android_client_info": {
+          "package_name": "com.emajlis.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667388167500-6f4dvohukh25ioj9m53240v0an7r8l7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emajlis.app",
+            "certificate_hash": "d5674ca6583ef29d56896747595b98558563f003"
+          }
+        },
+        {
+          "client_id": "667388167500-h34ndrk6uoqa2vmiqsic3s24q242nh8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emajlis.app",
+            "certificate_hash": "abaed3f4a0024651cf85a92bfdd23715eed4dc38"
+          }
+        },
+        {
+          "client_id": "667388167500-mk84slujsjn6euf16khng4n6la2jope5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emajlis.app",
+            "certificate_hash": "2741d5ae668a2fff2457fe48d85ec7d3f760ece5"
+          }
+        },
+        {
+          "client_id": "667388167500-gd0il56snjqi702jbakoacp785dggc08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChRHwW6drzIqtnIbu1gpHPu_OyGt20jf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667388167500-gd0il56snjqi702jbakoacp785dggc08.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "667388167500-5vjpr21o3p02a6g53qb2cslscmlo96f2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eMajlis-gts.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
